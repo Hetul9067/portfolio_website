@@ -301,6 +301,10 @@ img {
       grid-gap: 1.2rem;
       margin-bottom: 1.2rem;
 
+      input {
+        border-radius: 5px;
+      }
+
       // grid areas
       .name-input {
         grid-area: name;
@@ -374,6 +378,5 @@ img {
   }
 }
 
-
 // Import Media Queries
-@import 'media';
+@import "media";

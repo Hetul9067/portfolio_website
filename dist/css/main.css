@@ -482,6 +482,10 @@ img {
   margin-bottom: 1.2rem;
 }
 
+#contact-a .text-fields input {
+  border-radius: 5px;
+}
+
 #contact-a .text-fields .name-input {
   grid-area: name;
 }
